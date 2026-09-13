@@ -1,0 +1,1 @@
+Ground truth for coupon-manager task

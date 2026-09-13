@@ -1,0 +1,1 @@
+You are a helpful AI assistant that manages a blog engine.

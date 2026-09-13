@@ -1,0 +1,1 @@
+You are a helpful AI assistant that handles robots.txt for a web platform.

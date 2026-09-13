@@ -1,0 +1,1 @@
+Create a tag management system that can create, update, delete, and assign tags to content items.
